@@ -1,0 +1,12 @@
+3 tipos de algoritmo 
+-descrição narrativa
+- fluxograma ou diagrama de blocos
+variavel guarda valores para a computação
+regras para identificadores
+1. deve começar com uma letra
+2.os próximos caracteres podem ser letras ou numeros
+3.nao pode conter nenhum simbolo, exceto _
+4. não pode conter espaços em branco
+5. não pode conter letras com acentos
+6. nao pode ser uma palavra reservada
+dica: nao faça abreviações, use nomes intuitivos
