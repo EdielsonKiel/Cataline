@@ -3,7 +3,7 @@ body{
     height: 100vh;
 }
 h1{
-    color: red;
+    color: rgb(112, 105, 105);
     font-size: 75px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
@@ -15,7 +15,7 @@ h1{
 div{
     width: 1080px;
     height: 720px;
-    background: rgba(201, 218, 18, 0.795);
+    background: rgb(44, 44, 43);
     border-width: 5px;
     border-color: black;
     border-style: solid;
@@ -32,7 +32,7 @@ li{
 }
 p{
     width: 800px;
-    background: orange;
+    background: rgb(134, 104, 74);
     text-align: left;
     word-spacing: 7px;
     font-size: 18px;
