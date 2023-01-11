@@ -46,3 +46,11 @@ audio{
     bottom: 0;
     right: 0;
 }
+img:hover {
+    width: 500px;
+    height: 575px;
+    transition-property: all;
+    transition-duration: 3s;
+    transition-timing-function: linear;
+
+}
